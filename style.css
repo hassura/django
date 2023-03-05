@@ -1,3 +1,99 @@
-body{
-    background-color: aqua;
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap'); 
+.b{
+    font-family:Noto Sans;
+    display: flex;
+     font-size: 16px;
+   
+  
+
+}
+.a{
+    display: flex;
+}
+li{
+    margin: 30px;
+    color: black;
+    
+}
+.c{
+    margin-top: 10px;
+    display: flex;
+}
+.d{
+    margin-left: 100px;
+    border: 5px solid white;
+    border-radius: 10px;
+    margin-right: 15px;
+    box-shadow: 5px 5px 5px 5px #888888  ;
+    margin-top: 5px;
+   width: 2000px;
+    height: 300px;
+    
+}
+.e{
+    margin-left: 0px;
+    border: 5px solid white;
+    border-radius: 15px;
+    margin-right: 100px;
+    box-shadow: 5px 5px 5px 5px #888888  ;
+    margin-top: 5px;
+    width: 2000px;
+    height: 300px;
+    display: flex;
+}
+.w{
+    margin-top: -38px;
+}
+.container{
+    margin-top: -30px;
+}
+p{
+    padding: 10px;
+    font-size: 18px;
+}
+.head{
+    color:#6739b7;
+    padding: 10px;
+    font-weight: bold;
+    
+}
+.d{
+    display: flex;
+}
+.arrow1{
+    margin-bottom: -100px;
+}
+.arrow2{
+    margin-bottom: -30px;
+}
+.j{
+    display: flex;
+    margin-left: 100px;
+    margin-top: 50px;
+   
+}
+.hm{
+    color: #6739b7;
+    font-weight: bold;
+}
+p{
+    color: rgb(99, 96, 96);
+    font-size: 15px;
+}
+.hr{
+    border-bottom: 1px solid black;
+    margin-bottom: 50px;
+}
+.t{
+    margin-right: 150px;
+}
+.we{
+    position: relative;
+}
+@media screen and(min-width:1298px){
+    .b{font-size: 1px;
+
+    }
+
+    
 }
